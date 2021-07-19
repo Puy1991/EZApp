@@ -1,1 +1,3 @@
-<?php //Config Database ?>first commit
+<?php
+ //Config Database 
+?>
